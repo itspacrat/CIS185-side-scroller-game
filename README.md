@@ -1,1 +1,1 @@
-"# side-scroller-game" 
+# side-scroller-game
